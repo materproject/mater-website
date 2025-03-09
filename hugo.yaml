@@ -26,6 +26,10 @@ params:
   displayUpdatedDate: true
   dateFormat: "January 2, 2006"
 
+  editURL:
+    enable: true
+    base: "https://github.com/materproject/mater-website/edit/master/content"
+
   blog:
     list:
       displayTags: true
