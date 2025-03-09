@@ -49,7 +49,7 @@ To run this site locally (offline):
     hugo server -D
     ```
 
-5.  Open your web browser and go to `http://localhost:1313`{.verbatim}
+5.  Open your web browser and go to `http://localhost:1313`
     to see the site.
 
 ## Contributing
@@ -59,9 +59,9 @@ documentation, or suggesting new features, feel free to create issues
 and submit pull requests.
 
 1.  Fork the repository.
-2.  Create a feature branch: `git checkout -b my-feature`{.verbatim}
-3.  Commit your changes: `git commit -m 'Add new feature'`{.verbatim}
-4.  Push to the branch: `git push origin my-feature`{.verbatim}
+2.  Create a feature branch: `git checkout -b my-feature`
+3.  Commit your changes: `git commit -m 'Add new feature'`
+4.  Push to the branch: `git push origin my-feature`
 5.  Submit a pull request.
 
 ## License
