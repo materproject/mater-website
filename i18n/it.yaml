@@ -1,5 +1,15 @@
 about: Mater
-projects: Progetti
-onThisPage: "In questa pagina"
+backToTop: "Torna in cima"
+changeLanguage: "Cambia lingua"
+changeTheme: "Cambia tema"
+copyCode: "Copia codice"
 copyright: "© 2025 Mater Project."
-editThisPage: "Modifica su GitHub →"
+dark: "Scuro"
+editThisPage: "Modifica questa pagina su GitHub →"
+lastUpdated: "Ultimo aggiornamento il"
+light: "Chiaro"
+noResultsFound: "Nessun risultato trovato."
+onThisPage: "In questa pagina"
+projects: Progetti
+readMore: "Leggi di più →"
+searchPlaceholder: "Cerca..."
